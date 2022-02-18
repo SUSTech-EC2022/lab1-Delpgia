@@ -1,3 +1,4 @@
+%almost copy the answer
 function [bestSoFarFit ,bestSoFarSolution ...
     ]=simpleEA( ...  % name of your simple EA function
     fitFunc, ... % name of objective/fitness function
